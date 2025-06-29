@@ -1,4 +1,4 @@
-# 🧠 AI React Component Generator
+# AI React Component Generator with TailWind CSS
 
 This project allows users to generate interactive, styled React components using AI (via OpenAI API). The app includes a Spring Boot backend and a React frontend using `react-live` for real-time JSX previews.
 
@@ -80,8 +80,6 @@ npm run dev
 
 - `Create a login form with email and password inputs and toggle between sign in/sign up`
 - `Generate a product card with image, title, description, and Add to Cart button`
-- `Build a contact form with validation and a submit button`
-
 ---
 
 ## 🛡️ Restrictions
